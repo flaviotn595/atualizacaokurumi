@@ -1,1 +1,289 @@
-==AQABEQABEQABEQAB0UKZXZE9Fdz9GaHBULt0SLt0SLtMyIjMyIjAzIjMyIjMCKogCKogSIhESIwAzM3gCKogCKoESIhESO5IzNogCKogCKhESIhgTOycDKogCKogSIhESI3kjM3gCKogCKoESIhEiN5IzNogCKogCKhESIhUTOyczIjMyIjMCKogCKogSNhESIhc3bsNFIzFmcvRWYyVGcPhCKogCKoQTIhESIJ1UVSV1SgI1TElkVSV0UogCKogCKzESIhECTBBVSD5USSBFIS9ERJZlUFNFKogCKogiMhESIhMlS2VGRfR3cvh2RABiOtFmcnVGblRFKogCKogSMhESIhQjLxYHI642bpNnclZFIkF2bslXYQByIjMyIjMCKogCKogCMwMzN6EjLw4CMucjMxESIhEici5SbvNmLzN3bytWYuQnblRnbvNWIhESIhESIhESIhESNhESIhUTIhESIhNXdhESIhATIhESIwESIhEyM0QTIhESIhESIhQjL04COugTIhESI44COugjL4ESIhEici5SbvNmLzN3bytWYuQnblRnbvNWIhESIdZGbyN2WdZGbyN2W0V2aj92ciV2dgoTZkFmcnBXVdZGbyN2Wl5Was52bug2czlWb1JXdr5SehJnM2BiO0N3bI1lZsJ3YbFjLx8CUURFSgInYu02bj5ycz9mcrFmL05WZ052bj9yL6kmbzBCVFdUIhESI5hXYyBXQgI3bklmdyV2UgESIhESY05WZMByUT9kULFEIvJXYsNEKogCKogCMwMzN6EjLw4CMucjMxESIhEici5SbvNmLzN3bytWYuQnblRnbvNWIhESIhESIhESIhESNhESIhUTIhESIhNXdhESIhATIhESIwESIhEyM0QTIhESIhESIhQjL04COugTIhESI44COugjL4ESIhEici5SbvNmLzN3bytWYuQnblRnbvNWIhESIdZGbyN2WdZGbyN2W0V2aj92ciV2dgoTZkFmcnBXVdZGbyN2Wl5Was52bug2czlWb1JXdr5SehJnM2BiO0N3bI1lZsJ3YbFjLx8CUURFSgInYu02bj5ycz9mcrFmL05WZ052bj9yL6kmbzBCVFdUIhESIsFGcpNmbpJHUgI3bklmdyV2UgESIhESY05WZMByUT9kULFEIvJXYsNEKogCKogCMwMzN6EjLw4CMucjMxESIhEici5SbvNmLvd2bihmL3d3dhESIhESIhESIhESI0ESIhECNhESIh42YhESIhATIhESIwESIhEyM0QTIhESIhESIhQjL04COugTIhESI44COugjL4ESIhESM54SM14iNx4CNwETIhESIdZGbyN2WdZGbyN2WzdHI6UGZhJ3ZwVVXmxmcjtVZ2lGbh1CclV2SgojbvlGdjVmbu92QdZGbyN2Wl5Was52bug2czlWb1JXdr5SehJnM2BiO0N3bI1lZsJ3YbFjLx8CUURFSg8ici5SbvNmLvd2bihmL3d3dv8iOzN3dgQVRHFSIhECbhBXaj5WayBFIy9GZpZnclNVIhESIPd0TChEIp9EItAiMSJEKogCKogCMwMzN6EjLw4CMucjMxESIhESbvNmLlJXYsZGZ19Gbj5ycq5GZjFSIhESIhESIhESIhQTIhESI0ESIhEyZulWIhESIwESIhECMhESIhMDN0ESIhESIhESI04CNugjL4ESIhECOugjL44COhESIhQTOukTMuYTMuQDMxESIhESXmxmcjtVXmxmcjt1c3BiOlRWYydGcV1lZsJ3YbVmdpxWYtAXZltEI642bpR3Yl5mbvNUXmxmcjtVZulGbu9mLoN3cp1WdyV3aukXYyJjdgoDdz9GSdZGbyN2Wx4SMvAFVUhEIt92YuUmchxmZkV3bsNmLzpmbkN2LvozczdHIUV0RhESIhwWYwl2YulmcQBicvRWa2JXZTFSIhECRV9ETDBSTpRFItAiMSJEKogCKogCMwMzN6EjLw4CMucjMxESIhEici5SbvNmLwBXY15mblJmLzRnblRnbvNmYvJWIhESIhESIhESIhECNhESIhQTIhESIyJWIhESIwESIhECMhESIhMDN0ESIhESIhESI04CNugjL4ESIhECOugjL44COhESIhMDOuMzMx4iNx4CNwETIhESIdZGbyN2WdZGbyN2WzdHI6UGZhJ3ZwVVXmxmcjtVZ2lGbh1CclV2SgojbvlGdjVmbu92QdZGbyN2Wl5Was52bug2czlWb1JXdr5SehJnM2BiO0N3bI1lZsJ3YbFjLx8CUURFSgInYu02bj5CcwFWdu5WZi5yc05WZ052bjJ2bi9yL6M3c3BCVFdUIhESIsFGcpNmbpJHUgI3bklmdyV2UhESIh01dl50WgI0TCBSTpRFItAiMSJEKogCKogCMwMzN6EjLw4CMucjMxESIhEici5SbvNmLsFWd0JXa2F2YuFmYtlGdu0WIhESIhESIhESIhECNhESIhQTIhESIn5WahESIhATIhESIwESIhEyM0QTIhESIhESIhQjL04COugTIhESI44COugjL4ESIhEyM44yMzEjL2EjL0ATMhESIh0lZsJ3Yb1lZsJ3YbN3dgoTZkFmcnBXVdZGbyN2WlZXasFWLwVWZLBiOu9Wa0NWZu52bD1lZsJ3YbVmbpxmbv5CazNXatVnc1tmL5FmcyYHI6Q3cvhUXmxmcjtVMuEzLQRFVIBici5SbvNmLsFWd0JXa2F2YuFmYtlGdu02LvozczdHIUV0RhESIhwWYwl2YulmcQBicvRWa2JXZTFSIhESX3VmTbBSQD5UQCBSTpRFItAiMSJEKogCKogCMwMzN6EjLw4CMucjMxESIhESbvNmLp1WY0FGZukWbkV3bsNmLuBndhESIhESIhESIhESI0ESIhECNhESIhE2c1FSIhESNwESIhECMhESIhMDN0ESIhESIhESI04CNugjL4ESIhECOugjL44COhESIh02bj5SatFGdhRmLp1GZ19Gbj5ibwZXIhESIdZGbyN2WdZGbyN2W0V2aj92ciV2dgoTZkFmcnBXVdZGbyN2Wl5Was52bug2czlWb1JXdr5SehJnM2BiO0N3bI1lZsJ3YbFjLx8CUURFSg02bj5SatFGdhRmLp1GZ19Gbj5ibwZ3LvozczdHIUV0RhESIhwWYwl2YulmcQBicvRWa2JXZTFSIhESSNFEVBREIvJXYsNEItAiMSJEKogCKogCMwMzN6EjLw4CMucjMxESIhEici5SbvNmLhNWasBXbvN2clRmLv5WIhESIhESIhESIhECNhESIhQTIhESIhNXdhESIhATIhESIwESIhEyM0QTIhESIhESIhQjL04COugTIhESI44COugjL4ESIhEici5SbvNmLhNWasBXbvN2clRmLv5WIhESIdZGbyN2WdZGbyN2W0V2aj92ciV2dgoTZkFmcnBXVdZGbyN2Wl5Was52bug2czlWb1JXdr5SehJnM2BiO0N3bI1lZsJ3YbFjLx8CUURFSgInYu02bj5SYjlGbw12bjNXZk5ybu9yL6kmbzBCVFdUIhESIsFGcpNmbpJHUgI3bklmdyV2UhESIhE0QJxEUN90QTVERg8mchx2Qg0CIyIlQogCKogCKwAzM3oTMuAjLw4yNyETIhESIt92YuUmchxmZkV3bsNmLzpmbkNWIhESIhESIhESIhECNhESIhQTIhESIyJWIhESIwESIhECMhESIhMDN0ESIhESIhESI04CNugjL4ESIhECOugjL44COhESIhQTOugTMuYTMuQDMxESIhESXmxmcjtVXmxmcjt1c3BiOlRWYydGcV1lZsJ3YbVmdpxWYtAXZltEI642bpR3Yl5mbvNUXmxmcjtVZulGbu9mLoN3cp1WdyV3aukXYyJjdgAiO0N3bI1lZsJ3YbFjLx8CUURFSg8SbvNmLlJXYsZGZ19Gbj5ycq5GZj9yL6M3c3BCVFdUIhESIsFGcpNmbpJHUgI3bklmdyV2UhESIhQUVPx0Qg8mVpZFItAiMSJEKogCKogCMwMzN6EjLw4CMucjMxESIhEici5SbvNmLvZXa25yYvRWZnFSIhESIhESIhESIhQTIhESI0ESIhEiciFSIhECMhESIhATIhESIzQDNhESIhESIhECNuQjL44COhESIhgjL44COugTIhESIwgjL34COx4CNwETIhESIdZGbyN2WdZGbyN2WzdHI6UGZhJ3ZwVVXmxmcjtVZ2lGbh1CclV2SgojbvlGdjVmbu92QdZGbyN2Wl5Was52bug2czlWb1JXdr5SehJnM2BiO0N3bI1lZsJ3YbFjLx8CUURFSgInYu02bj5yb2lmduM2bkV2Zv8iOzN3dgQVRHFSIhECbhBXaj5WayBFIy9GZpZnclNVIhESIddXZOtFIyAyQPRURHBybWlmVg0CIyIlQogCKogCKwAzM3oTMuAjLw4yNyETIhESIyJmLt92Yu8mdpZnLj9GZldWIhESIhESIhESIhECNhESIhQTIhESIyJWIhESIwESIhECMhESIhMDN0ESIhESIhESI04CNugjL4ESIhECOugjL44COhESIhInYu02bj5yb2lmduM2bkV2ZhESIh0lZsJ3Yb1lZsJ3YbRXZrN2bzJWZ3BiOlRWYydGcV1lZsJ3Yb1VY1tFI6QnbldWQtIXZzVVXmxmcjtVZ2lGbB1CclV2SgojbvlGdjVmbu92QdZGbyN2Wl5Was52bug2czlWb1JXdr5SehJnM2BiO0N3bI1lZsJ3YbBjLx8CUURFSgInYu02bj5yb2lmduM2bkV2Zv8iOzN3dgQVRHFSIhECbhBXaj5WayBFIy9GZpZnclNVIhESIxAyQPRURHBybWlmVg0CIyIlQogCKogCKwAzM3oTMuAjLw4yNyETIhESIyJmLt92Yu8mdpZnLhl2ZpZXIhESIhESIhESIhECNhESIhQTIhESIyJWIhESIwESIhECMhESIhMDN0ESIhESIhESI04CNugjL4ESIhECOugjL44COhESIhInYu02bj5yb2lmduEWanlmdhESIh0lZsJ3Yb1lZsJ3YbN3dgoTZkFmcnBXVdZGbyN2WlZXasFWLwVWZLBiOu9Wa0NWZu52bD1lZsJ3YbVmbpxmbv5CazNXatVnc1tmL5FmcyYHI6Q3cvhUXmxmcjtVMuEzLQRFVIBici5SbvNmLvZXa25SYpdWa29yL6M3c3BCVFdUIhESIsFGcpNmbpJHUgI3bklmdyV2UgESIhESX3VmTbBSQJdUSWBybWlmVg0CIyIlQogCKogCKwAzM3oTMuAjLw4yNyETIhESIyJmL292ZuEGepF2YuQWdvx2YuUGZhRWaslmYv1WIhESIhESIhESIhECNhESIhQTIhESIsxWYhESIhATIhESIwESIhEyM0QTIhESIhESIhQjL04COugTIhESI44COugjL4ESIhECM44yNugTMuQDMxESIhESXmxmcjtVXmxmcjt1c3BiOlRWYydGcV1lZsJ3YbVmdpxWYtAXZltEI642bpR3Yl5mbvNUXmxmcjtVZulGbu9mLoN3cp1WdyV3aukXYyJjdgoDdz9GSdZGbyN2Wx4SMvAFVUhEIvInYuY3bn5SY4lWYj5CZ19Gbj5SZkFGZpxWai9Wbv8iOzN3dgQVRHFSIhECbhBXaj5WayBFIy9GZpZnclNVIhESIz5WYtJXSgMXZyRFItAiMSJEKogCKogCMwMzN6EjLw4CMucjMxESIhEici5SbvNmLvd2bihmL3d3dhESIhESIhESIhESIzESIhEyMhESIh42YhESIhATIhESIwESIhEyM0QTIhESIhESIhQjL04COugTIhESI44COugjL4ESIhESM54SM14iNx4CNwETIhESIdZGbyN2WdZGbyN2WzdHI6UGZhJ3ZwVVXmxmcjtVZ2lGbh1CclV2SgojbvlGdjVmbu92QdZGbyN2Wl5Was52bug2czlWb1JXdr5SehJnM2BiO0N3bI1lZsJ3YbFjLx8CUURFSg8ici5SbvNmLvd2bihmL3d3dv8iOzN3dgQVRHFSIhECbhBXaj5WayBFIy9GZpZnclNVIhESIPd0TChEIp9EItASMSJEKogCKogCMwMzN6EjLw4CMucjMxESIhESbvNmLlJXYsZGZ19Gbj5ycq5GZjFSIhESIhESIhESIhMTIhESIzESIhEyZulWIhESIwESIhECMhESIhMDN0ESIhESIhESI04CNugjL4ESIhECOugjL44COhESIhQTOukTMuYTMuQDMxESIhESXmxmcjtVXmxmcjt1c3BiOlRWYydGcV1lZsJ3YbVmdpxWYtAXZltEI642bpR3Yl5mbvNUXmxmcjtVZulGbu9mLoN3cp1WdyV3aukXYyJjdgoDdz9GSdZGbyN2Wx4SMvAFVUhEIt92YuUmchxmZkV3bsNmLzpmbkN2LvozczdHIUV0RhESIhwWYwl2YulmcQBicvRWa2JXZTFSIhECRV9ETDBSTpRFItASMSJEKogCKogCMwMzN6EjLw4CMucjMxESIhEici5SbvNmLwBXY15mblJmLzRnblRnbvNmYvJWIhESIhESIhESIhEyMhESIhMTIhESIn5WahESIhATIhESIwESIhEyM0QTIhESIhESIhQjL04COugTIhESI44COugjL4ESIhEyM44yMzEjL2EjL0ATMhESIh0lZsJ3Yb1lZsJ3YbN3dgoTZkFmcnBXVdZGbyN2WlZXasFWLwVWZLBiOu9Wa0NWZu52bD1lZsJ3YbVmbpxmbv5CazNXatVnc1tmL5FmcyYHI6Q3cvhUXmxmcjtVMuEzLQRFVIBici5SbvNmLwBXY15mblJmLzRnblRnbvNmYvJ2LvozczdHIUV0RhESIhwWYwl2YulmcQBicvRWa2JXZTFSIhESX3VmTbBiQPJEINlGVg0CIxIlQogCKogCKwAzM3oTMuAjLw4yNyETIhESIyJmLt92YuwWY1RncpZXYj5WYi1Wa05SbhESIhESIhESIhESIzESIhEyMhESIhcmbpFSIhECMhESIhATIhESIzQDNhESIhESIhECNuQjL44COhESIhgjL44COugTIhESIzgjLzMTMuYTMuQDMxESIhESXmxmcjtVXmxmcjt1c3BiOlRWYydGcV1lZsJ3YbVmdpxWYtAXZltEI642bpR3Yl5mbvNUXmxmcjtVZulGbu9mLoN3cp1WdyV3aukXYyJjdgoDdz9GSdZGbyN2Wx4SMvAFVUhEIyJmLt92YuwWY1RncpZXYj5WYi1Wa05Sbv8iOzN3dgQVRHFSIhECbhBXaj5WayBFIy9GZpZnclNVIhESIddXZOtFIBNkTBJEINlGVg0CIxIlQogCKogCKwAzM3oTMuAjLw4yNyETIhESIt92YukWbhRXYk5SatRWdvx2Yu4Gc2FSIhESIhESIhESIhMTIhESIzESIhESYzVXIhESI1ATIhESIwESIhEyM0QTIhESIhESIhQjL04COugTIhESI44COugjL4ESIhESbvNmLp1WY0FGZukWbkV3bsNmLuBndhESIh0lZsJ3Yb1lZsJ3YbRXZrN2bzJWZ3BiOlRWYydGcV1lZsJ3YbVmbpxmbv5CazNXatVnc1tmL5FmcyYHI6Q3cvhUXmxmcjtVMuEzLQRFVIBSbvNmLp1WY0FGZukWbkV3bsNmLuBndv8iOzN3dgQVRHFSIhECbhBXaj5WayBFIy9GZpZnclNVIhESIJ1UQUFERg8mchx2Qg0CIxIlQogCKogCKwAzM3oTMuAjLw4yNyETIhESIyJmLt92YuE2YpxGct92YzVGZu8mbhESIhESIhESIhESIzESIhEyMhESIhE2c1FSIhECMhESIhATIhESIzQDNhESIhESIhECNuQjL44COhESIhgjL44COugTIhESIyJmLt92YuE2YpxGct92YzVGZu8mbhESIh0lZsJ3Yb1lZsJ3YbRXZrN2bzJWZ3BiOlRWYydGcV1lZsJ3YbVmbpxmbv5CazNXatVnc1tmL5FmcyYHI6Q3cvhUXmxmcjtVMuEzLQRFVIBici5SbvNmLhNWasBXbvN2clRmLv52LvoTauNHIUV0RhESIhwWYwl2YulmcQBicvRWa2JXZTFSIhESQDlETQ10TDNVREBybyFGbDBSLgEjUChCKogCKoADMzcjOx4CMuAjL3ITMhESIh02bj5SZyFGbmRWdvx2YuMnauR2YhESIhESIhESIhESIzESIhEyMhESIhInYhESIhATIhESIwESIhEyM0QTIhESIhESIhQjL04COugTIhESI44COugjL4ESIhECN54COx4iNx4CNwETIhESIdZGbyN2WdZGbyN2WzdHI6UGZhJ3ZwVVXmxmcjtVZ2lGbh1CclV2SgojbvlGdjVmbu92QdZGbyN2Wl5Was52bug2czlWb1JXdr5SehJnM2BCI6Q3cvhUXmxmcjtVMuEzLQRFVIByLt92YuUmchxmZkV3bsNmLzpmbkN2LvozczdHIUV0RhESIhwWYwl2YulmcQBicvRWa2JXZTFSIhECRV9ETDBybWlmVg0CIxIlQogCKogCKwAzM3oTMuAjLw4yNyETIhESIyJmLt92Yu8mdpZnLj9GZldWIhESIhESIhESIhEyMhESIhMTIhESIyJWIhESIwESIhECMhESIhMDN0ESIhESIhESI04CNugjL4ESIhECOugjL44COhESIhADOucjL4EjL0ATMhESIh0lZsJ3Yb1lZsJ3YbN3dgoTZkFmcnBXVdZGbyN2WlZXasFWLwVWZLBiOu9Wa0NWZu52bD1lZsJ3YbVmbpxmbv5CazNXatVnc1tmL5FmcyYHI6Q3cvhUXmxmcjtVMuEzLQRFVIBici5SbvNmLvZXa25yYvRWZn9yL6M3c3BCVFdUIhESIsFGcpNmbpJHUgI3bklmdyV2UhESIh01dl50WgIDID9ERFdEIvZVaWBSLgEjUChCKogCKoADMzcjOx4CMuAjL3ITMhESIhInYu02bj5yb2lmduM2bkV2ZhESIhESIhESIhESIzESIhEyMhESIhInYhESIhATIhESIwESIhEyM0QTIhESIhESIhQjL04COugTIhESI44COugjL4ESIhEici5SbvNmLvZXa25yYvRWZnFSIhESXmxmcjtVXmxmcjtFdlt2YvNnYldHI6UGZhJ3ZwVVXmxmcjtVXhV3WgoDduV2ZB1iclNXVdZGbyN2WlZXasFULwVWZLBiOu9Wa0NWZu52bD1lZsJ3YbVmbpxmbv5CazNXatVnc1tmL5FmcyYHI6Q3cvhUXmxmcjtFMuEzLQRFVIBici5SbvNmLvZXa25yYvRWZn9yL6M3c3BCVFdUIhESIsFGcpNmbpJHUgI3bklmdyV2UhESIhEDID9ERFdEIvZVaWBSLgEjUChCKogCKoADMzcjOx4CMuAjL3ITMhESIhInYu02bj5yb2lmduEWanlmdhESIhESIhESIhESIzESIhEyMhESIhInYhESIhATIhESIwESIhEyM0QTIhESIhESIhQjL04COugTIhESI44COugjL4ESIhEici5SbvNmLvZXa25SYpdWa2FSIhESXmxmcjtVXmxmcjt1c3BiOlRWYydGcV1lZsJ3YbVmdpxWYtAXZltEI642bpR3Yl5mbvNUXmxmcjtVZulGbu9mLoN3cp1WdyV3aukXYyJjdgoDdz9GSdZGbyN2Wx4SMvAFVUhEIyJmLt92Yu8mdpZnLhl2ZpZ3LvozczdHIUV0RhESIhwWYwl2YulmcQBicvRWa2JXZTBSIhESIddXZOtFIBl0RJZFIvZVaWBSLgEjUChCKogCKoADMzcjOx4CMuAjL3ITMhESIhInYuY3bn5SY4lWYj5CZ19Gbj5SZkFGZpxWai9WbhESIhESIhESIhESIzESIhEyMhESIhwGbhFSIhECMhESIhATIhESIzQDNhESIhESIhECNuQjL44COhESIhgjL44COugTIhESIwgjL34COx4CNwETIhESIdZGbyN2WdZGbyN2WzdHI6UGZhJ3ZwVVXmxmcjtVZ2lGbh1CclV2SgojbvlGdjVmbu92QdZGbyN2Wl5Was52bug2czlWb1JXdr5SehJnM2BiO0N3bI1lZsJ3YbFjLx8CUURFSg8ici5idvdmLhhXahNmLkV3bsNmLlRWYklGbpJ2bt9yL6M3c3BCVFdUIhESIsFGcpNmbpJHUgI3bklmdyV2UhESIhMnbh1mcJByclJHVg0CIxIlQ
+{
+  "Version": "1.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível Atualize Por favor",
+  "UrlUpdate": "https://bitbin.it/7PDzqn5n/raw/",
+  "Sms": "",
+  "EmailFeedback": "",
+  "UrlContato": "https://t.me/Ghost_DevJS",
+  "UrlTermos": "",
+  "CheckUser": "true",
+  "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
+  "Servers": [
+    {
+      "Name": "SERVIDOR 1",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "ssh4g.kurumissh.online",
+      "CheckUser": "http://20.226.50.39:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+   },
+    {
+      "Name": "SERVIDOR 2",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "v2ray.kurumissh.online",
+      "CheckUser": "http://20.226.50.39:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+   {
+      "Name": "🔵TIM [01]",
+      "FLAG": "tim",
+      "Payload": "GET wss://texugo.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "texugo.alura.com.br",
+      "TlsIP": "172.67.188.168",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔵TIM [02]",
+      "FLAG": "tim",
+      "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "static.r4you.co",
+      "TlsIP": "104.26.5.175",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔵TIM [03]",
+      "FLAG": "tim",
+      "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "static.r4you.co",
+      "TlsIP": "104.26.4.175",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔵TIM [04]",
+      "FLAG": "tim",
+      "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "static.r4you.co",
+      "TlsIP": "172.67.70.43",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔵TIM [05]",
+      "FLAG": "tim",
+      "Payload": "GET wss://blog.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "blog.alura.com.br",
+      "TlsIP": "104.21.84.78",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔵TIM [06]",
+      "FLAG": "tim",
+      "Payload": "GET wss://empresas.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "empresas.alura.com.br",
+      "TlsIP": "172.64.147.215",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔵TIM [07]",
+      "FLAG": "tim",
+      "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "www.alura.com.br",
+      "TlsIP": "172.67.188.168",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟣VIVO [01]",
+      "FLAG": "vivo",
+      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "money-staging.infinitepay.io",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟣VIVO [02]",
+      "FLAG": "vivo",
+      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "carrinho-pos-familia.vivo.com.br",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟣VIVO [03]",
+      "FLAG": "vivo",
+      "Payload": "GET wss://help.pornhub.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "help.pornhub.com",
+      "TlsIP": "162.159.135.63",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟣VIVO [04]",
+      "FLAG": "vivo",
+      "Payload": "GET wss://support.uptodown.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "support.uptodown.com",
+      "TlsIP": "162.159.136.63",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟣VIVO [05]",
+      "FLAG": "vivo",
+      "Payload": "GET wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "support.pokemon.com",
+      "TlsIP": "172.64.130.2",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟣VIVO [06]",
+      "FLAG": "vivo",
+      "Payload": "GET wss://checkout.mediafire.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "checkout.mediafire.com",
+      "TlsIP": "104.24.11.16",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟣VIVO [07]",
+      "FLAG": "vivo",
+      "Payload": "GET wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "onepiece.com",
+      "TlsIP": "172.64.131.2",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔴CLARO [01]",
+      "FLAG": "claro",
+      "Payload": "GET wss://go.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "go.kaltura.com",
+      "TlsIP": "104.17.74.206",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔴CLARO [02]",
+      "FLAG": "claro",
+      "Payload": "GET wss://ct.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ct.livestream.com",
+      "TlsIP": "104.17.72.206",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔴CLARO [03]",
+      "FLAG": "claro",
+      "Payload": "GET wss://br.corp.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "br.corp.kaltura.com",
+      "TlsIP": "104.21.67.158",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔴CLARO [04]",
+      "FLAG": "claro",
+      "Payload": "GET wss://communitystaging.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "communitystaging.kaltura.com",
+      "TlsIP": "162.159.128.79",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔴CLARO [05]",
+      "FLAG": "claro",
+      "Payload": "GET wss://lp.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "stage-corp.kaltura.com",
+      "TlsIP": "104.21.67.158",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔴CLARO [06]",
+      "FLAG": "claro",
+      "Payload": "GET wss://vimeo.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "vimeo.livestream.com",
+      "TlsIP": "104.17.71.206",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔴CLARO [07]",
+      "FLAG": "claro",
+      "Payload": "GET wss://learning.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "learning.kaltura.com",
+      "TlsIP": "162.159.135.91",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔴CLARO [08]",
+      "FLAG": "claro",
+      "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "icanhazip.com",
+      "TlsIP": "104.18.115.97",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟡OI [01]",
+      "FLAG": "oi",
+      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "www.hbogo.com.br",
+      "TlsIP": "104.16.55.91",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟡OI [02]",
+      "FLAG": "oi",
+      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "www.hbogo.com.br",
+      "TlsIP": "104.16.53.91",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟡OI [03]",
+      "FLAG": "oi",
+      "Payload": "GET \/ HTTP\/1.3[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "oii.gdmhost.ga",
+      "TlsIP": "104.16.56.6",
+      "ProxyIP": "104.16.56.6",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+
+
+    }
+  ]
+}
